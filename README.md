@@ -1,4 +1,4 @@
-# Yet Another Password Meter
+# Yet Another Password Meter*
 
 ## Introduction 
 Yet Another Password Meter on GITHub is the next version of http://www.yetanotherpasswordmeter.com/. Is is basically the moved version from no-version control to really great version control.
